@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Maadhav01
-- 👀 I’m interested in Programming and Business Studies
+- 👀 I’m interested in CS and Business Studies
 - 🌱 I’m currently learning Python
 - 💞️ I’m looking to collaborate on projects
 - 📫 How to reach me - 
