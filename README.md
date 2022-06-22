@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Maadhav01
 - 👀 I’m interested in CS and Business Studies
-- 🌱 I’m currently learning Python
+- 🌱 I’m currently learning Python, JS and C
 - 💞️ I’m looking to collaborate on projects
 - 📫 How to reach me - 
 - Instagram: [@maadhav.__](https://www.instagram.com/maadhav.__/)
